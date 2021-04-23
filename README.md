@@ -1,6 +1,6 @@
 # README
 
-![banner](https://github.com/thiagohrcosta/coffe-shop/blob/master/public/img/coffe3.png?raw=true)
+![banner](https://res.cloudinary.com/dloadb2bx/image/upload/v1619145917/coffee_r9i4o0.png)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
