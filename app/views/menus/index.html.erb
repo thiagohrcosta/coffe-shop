@@ -4,7 +4,18 @@
   </div>
     <div class="coffe-content">
       <h1 class="title-coffe">Coffe menu</h1>
-      <hr>
+      <hr class="h-line">
+      <div class="menu-grid">
+        <% @menus.each do |menu| %>
+          <div class="menu-box">
+            <img class="img-menu" src="<%= menu.picture %>">
+            <p><%= menu.name %></p>
+            <div class="">
+              <p class="menu-price">$ <%= menu.price %></p>
+            </div>
+          </div>
+        <% end %>
+      </div>
     </div>
 
 </div>
