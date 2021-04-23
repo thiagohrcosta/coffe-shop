@@ -14,8 +14,18 @@
  *= require_self
  */
 
+/*
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+
+*/
+
 @import "components/index";
 
 body{
+  background-image: -webkit-linear-gradient(65deg, #ffab73 50%, #E4E9FD 50%);
+
   background-color: #ffab73 !important;
+  font-family: 'Roboto', sans-serif;
 }
