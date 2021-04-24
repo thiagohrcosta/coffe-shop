@@ -15,9 +15,15 @@
   margin: 0 auto;
 
   .title-coffe{
-    padding: 20px;
     text-align: center;
     font-family: 'Dancing Script', cursive;
+  }
+
+  .menu-title{
+    padding: 25px;
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
   }
 
   .h-line{
@@ -38,7 +44,7 @@
     margin-bottom: 50px;
     background-color: #fff;
     margin: 10px 0 5px;
-    height: 300px;
+    height: 280px;
     border: 1px solid #E8E8E8;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   }
@@ -48,14 +54,14 @@
   }
 
   .menu-price{
-    margin-top: -80px;
+    margin-top: -100px;
     margin-left: 250px;
     position: absolute;
     font-weight: bold;
     color: #fff;
     text-align: center;
     padding: 17px 0;
-    background-color: red;
+    background-color: #AB6832;
     border-radius: 50%;
     width: 60px;
     height: 60px;

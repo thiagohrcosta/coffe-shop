@@ -24,7 +24,9 @@ font-family: 'Roboto', sans-serif;
 @import "components/index";
 
 body{
-  background-image: -webkit-linear-gradient(65deg, #ffab73 50%, #E4E9FD 50%);
+  background-image: -webkit-linear-gradient(65deg, #AB6832 50%, #E4E9FD 50%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: 'Roboto', sans-serif;
   height: 100vh;
 }
